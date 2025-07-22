@@ -1,0 +1,25 @@
+{
+  "name": "openBO",
+  "symbol": "openBO",
+  "description": "A community token for fun and party on Solana. Embrace the madness.",
+  "image": "https://ipfs.io/ipfs/bafkreiflxqni4buv2523wsl4ppxuo73ha3slbpuqiek2zr2u4xabccsiei",
+  "external_url": "https://x.com/nurohman011",
+  "attributes": [
+    {
+      "trait_type": "Creator",
+      "value": "Sekcrotisme"
+    },
+    {
+      "trait_type": "Twitter",
+      "value": "@nurohman011"
+    },
+    {
+      "trait_type": "Telegram",
+      "value": "@nurohman09"
+    },
+    {
+      "trait_type": "Total Supply",
+      "value": "1,000,000,000"
+    }
+  ]
+}
